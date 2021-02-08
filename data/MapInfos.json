@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Peta Dunia","order":1,"parentId":0,"scrollX":534,"scrollY":319},
-{"id":2,"expanded":false,"name":"Lava Cave","order":2,"parentId":0,"scrollX":1602,"scrollY":1485},
-{"id":3,"expanded":false,"name":"Sewer Cave","order":3,"parentId":0,"scrollX":1594,"scrollY":997},
-{"id":4,"expanded":false,"name":"World 5","order":5,"parentId":0,"scrollX":1602,"scrollY":1965},
-{"id":5,"expanded":false,"name":"Rumah","order":4,"parentId":0,"scrollX":978.6666666666666,"scrollY":617.3333333333334}
+null,
+{"id":2,"expanded":false,"name":"Lava Cave","order":1,"parentId":0,"scrollX":1281.6,"scrollY":1668},
+{"id":3,"expanded":false,"name":"Sewer Cave","order":2,"parentId":0,"scrollX":1594.6666666666667,"scrollY":997.3333333333334},
+{"id":4,"expanded":false,"name":"World 5","order":4,"parentId":0,"scrollX":1602.6666666666667,"scrollY":1965.3333333333333},
+{"id":5,"expanded":false,"name":"Rumah","order":3,"parentId":0,"scrollX":1256,"scrollY":1524}
 ]
