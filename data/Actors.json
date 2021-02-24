@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Zaki_Battler","characterIndex":0,"characterName":"Zaki_Walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Zaki","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zaki","nickname":"","note":"","profile":"Zaki adalah penyihir yang baik, ramah, dan gemar menabung."},
-{"id":2,"battlerName":"troyard_battler","characterIndex":0,"characterName":"troyard_walk","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"troyard_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Troyard","nickname":"","note":"","profile":"Dia adalah seorang pejuang yang tangguh dan bijak."},
-{"id":3,"battlerName":"Ales_Battler","characterIndex":0,"characterName":"Ales_Walk","classId":4,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Ales","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ales","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Boy_Battler","characterIndex":0,"characterName":"Boy_Walk","classId":1,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Boy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Boy","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Zaki_Battler","characterIndex":0,"characterName":"Zaki_Walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Zaki","traits":[],"initialLevel":5,"maxLevel":99,"name":"Zaki","nickname":"","note":"","profile":"Zaki adalah penyihir yang baik, ramah, dan gemar menabung."},
+{"id":2,"battlerName":"troyard_battler","characterIndex":0,"characterName":"troyard_walk","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"troyard_face","traits":[],"initialLevel":5,"maxLevel":99,"name":"Troyard","nickname":"","note":"","profile":"Dia adalah seorang pejuang yang tangguh dan bijak."},
+{"id":3,"battlerName":"Ales_Battler","characterIndex":0,"characterName":"Ales_Walk","classId":4,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Ales","traits":[],"initialLevel":5,"maxLevel":99,"name":"Ales","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Boy_Battler","characterIndex":0,"characterName":"Boy_Walk","classId":1,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Boy","traits":[],"initialLevel":5,"maxLevel":99,"name":"Boy","nickname":"","note":"","profile":""}
 ]
